@@ -1,0 +1,35 @@
+h1,h3{
+    font-style: italic;
+    color: #416a75;
+}
+.maincontainer{
+    height: 420px;
+    width: 1200px;
+    margin: 40px 40px 0 220px;
+    padding: 20px 0px 0px 30px;
+    background-color:#c8eed9 ;     
+}
+
+p{
+    font-size: 20px;
+    font-style: oblique;
+    
+}
+.bottom-container,.footer
+{
+    text-align: center;
+    font-size: medium;
+    margin: 30px 20px auto;
+}
+.abody,.para
+{
+    background-color:#eeebdd;
+}
+.niche
+{
+    text-align: center;
+    font-size: medium;
+    margin: 30px 20px auto;
+   background-color: rgb(245, 238, 245);
+}
+
